@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "This project implements full e-commerce functionality",
+  "homepage": "https://github.com/marycynthia2020/E-commerce-API#readme",
+  "bugs": {
+    "url": "https://github.com/marycynthia2020/E-commerce-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marycynthia2020/E-commerce-API.git"
+  },
+  "license": "ISC",
+  "author": "Chinemerem Ugbaja",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
